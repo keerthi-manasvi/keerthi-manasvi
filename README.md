@@ -31,7 +31,6 @@ roles:
   - AI Engineer
   - Open Source Contributor
   - Full Stack Developer
-available: Internships & Collaborations
 ```
 
 <br clear="right"/>
